@@ -19,7 +19,7 @@
 ## 📌 Projets phares
 
 - 🔗 [store-management-api](https://github.com/Baptist-e-2/store-management-api) — API REST Node.js/Express/MongoDB (25 endpoints, architecture MVC)
-- 📱 [tv-series-explorer-android](lien) — App Android Kotlin/Jetpack Compose/MVVM
+- 📱 [tv-series-explorer-android](https://github.com/Baptist-e-2/tv-series-explorer-android) — App Android Kotlin/Jetpack Compose/MVVM
 - 🖥️ [windows-server-ad-labs](lien) — Labs infra Windows Server / Active Directory
 - 🌐 [cisco-network-labs](lien) — Labs réseau Cisco (ACL, DNS, DHCP, Syslog)
 
